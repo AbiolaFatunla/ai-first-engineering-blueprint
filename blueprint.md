@@ -1,23 +1,9 @@
----
-tags: [ai-first, blueprint, engineering-system, thought-leadership]
-type: framework
-created: 2026-01-03
-status: active
-context: General version, decoupled from any employer. Evolved from the DevSecAI version when it became clear that role might not continue. All original work by Abiola Fatunla.
-related:
-  - "[[devsecai-version]]"
-  - "[[anthropic-cursor-research]]"
-  - "[[engineering-system-as-service]]"
-  - "[[stakeholder-engineering-agent]]"
-  - "[[agent-verification-layer]]"
-  - "[[moonshot-builds]]"
----
-
 # Building an AI-First Engineering Organisation
 
 ## A Blueprint for Establishing Engineering Culture from Day One
 
 **Author:** Abiola Fatunla
+**Originally developed:** December 2025
 
 ---
 
