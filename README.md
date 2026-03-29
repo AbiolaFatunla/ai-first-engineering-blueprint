@@ -10,17 +10,6 @@ My framework for building AI-first engineering organisations from the ground up.
 | 18 Dec 2025 | Wrote the first blueprint, contextualised for a DevSecOps/AI security startup |
 | 3 Jan 2026 | Extracted the general version, decoupled from any specific employer |
 
-## Documents
-
-### [The Blueprint](blueprint.md) (active)
-The general, employer-agnostic version. Covers primitive fluency, the abstraction tax framework, harness patterns, cultural foundations, skill development, organisational structure, delegation policies, tooling, implementation roadmap, and success metrics. This is the main document.
-
-### [DevSecAI Version](devsecai-version.md) (archived, preserved for provenance)
-The original version, written specifically for a DevSecOps/AI security startup. Same core framework but contextualised for that domain. Preserved because it establishes the earliest dated version of this thinking.
-
-### [Anthropic and Cursor Research](anthropic-cursor-research.md) (reference)
-The research foundation. Extended analysis of Anthropic's internal study and Cursor's operational data. Covers daily workflows, supervision models, task distribution, skill development concerns, and cultural dynamics.
-
 ## What the framework covers
 
 - **Primitive fluency** as the shared substrate for human-agent collaboration
